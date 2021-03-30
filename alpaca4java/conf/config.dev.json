@@ -1,0 +1,6 @@
+{
+   "auth": {
+       "key":"your_key",
+       "secret":"your_secret_key"
+   }
+}
